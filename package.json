@@ -1,0 +1,9 @@
+{
+  "name": "sdvx",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/niltree/sdvx.git",
+  "author": "Shawn Presser <shawnpresser@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
